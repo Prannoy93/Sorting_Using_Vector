@@ -1,0 +1,42 @@
+*** SORTING 1000 ELEMENTS FROM random.txt ***
+Insertion sort		607
+Selection Sort		388
+Merge Sort		42
+Quick Sort		8
+Bubble Sort		1771
+Comb Sort		22
+Shell Sort		16
+Radix Sort		7
+Heap Sort		26
+Counting Sort		2
+Intro Sort 		87
+
+*** SORTING 1000 ELEMENTS FROM ascending.txt ***
+Insertion sort		0
+Selection Sort		361
+Merge Sort		38
+Quick Sort		5
+Bubble Sort		0
+Comb Sort		13
+Shell Sort		11
+Radix Sort		5
+Heap Sort		26
+Counting Sort		2
+Intro Sort 		49
+*** SORTING 1000 ELEMENTS FROM descending.txt ***
+Insertion sort		1208
+Selection Sort		416
+Merge Sort		31
+Quick Sort		6
+Bubble Sort		2406
+Comb Sort		20
+Shell Sort		17
+Radix Sort		13
+Heap Sort		29
+Counting Sort		10
+Intro Sort 		37
+*** SORTING 2000 ELEMENTS FROM random.txt ***
+Insertion sort		2352
+Selection Sort		1593
+Merge Sort		86
+Quick Sort		24
